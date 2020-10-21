@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 150px;
+}
+
+.header {
+
+  background: linear-gradient(#f8b595,#f67280);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.section1 {
+  background: linear-gradient(#f67280,#c06c84);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+@media screen and (max-width: 828px) {
+  .skellington {
+    width: 100%;
+  }
+}
+
+ .img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.section2 {
+  background: linear-gradient(#c06c84,#8675a9);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.section3 {
+  background: linear-gradient(#8675a9,#150485);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.section4 {
+  background: linear-gradient(#150485,#7579e7);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.section5 {
+  background: linear-gradient(#7579e7,#9ab3f5);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.section6 {
+  background: linear-gradient(#9ab3f5,#a3d8f4);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.section7 {
+  background: linear-gradient(#a3d8f4,#b9fffc);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.section8 {
+  background: linear-gradient(#b9fffc,#ffffff);
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+}
